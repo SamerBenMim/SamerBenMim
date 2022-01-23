@@ -46,13 +46,13 @@
 
      <!-- react -->
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="https://grafikart.fr/uploads/icons/redux.svg"
       alt="react" width="40" height="40" /> </a> 
 
        <!-- redux -->
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://grafikart.fr/uploads/icons/redux.svg"
-      alt="bootstrap" width="40" height="40" /> </a>
+      alt="redux" width="40" height="40" /> </a>
 
         <!-- graphQl -->
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
