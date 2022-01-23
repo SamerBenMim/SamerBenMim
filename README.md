@@ -14,26 +14,26 @@
 
 - 🌱 I’m currently learning blockchain Development and other programming languages
 
-- 📫 How to reach me **samerbenmim@insat.u-carthage.tn
+- 📫 How to reach me ** samerbenmim@insat.u-carthage.tn **
 
-- ⚡ Fun fact : cello and piano <3 are the reasons to live.
+- ⚡ Fun fact : cello and piano ❤️ are the reasons to live.
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/adam pithewan" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/samer-ben-mim-378499213/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/samer.benmim/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      alt="samer" height="30" width="40" /></a>
+  <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+  <a href="benmimsamer15@gmail.com" target="blank"><img align="center"
+      src="https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/8/4/e/84e4ff1c1a_102482_gmail-logo-definition.jpg"
+      alt="samer" height="30" width="40" /></a>
 </p>
 
 <br>
