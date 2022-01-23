@@ -45,9 +45,10 @@
 
 
      <!-- react -->
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://grafikart.fr/uploads/icons/redux.svg"
-      alt="react" width="40" height="40" /> </a> 
+     <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+      <img src="https://grafikart.fr/uploads/icons/redux.svg"
+        alt="redux" width="40" height="40" /> </a>
+  
 
        <!-- redux -->
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
