@@ -62,6 +62,9 @@
         alt="nodejs" width="40" height="40" /> </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
+        width="40" height="40" /> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
+        src="![image](https://user-images.githubusercontent.com/79151541/185604206-0e1dfab7-aa39-4106-a938-e86861db3c6f.png)" alt="nestjs"
         width="40" height="40" /> </a> 
   <a href="https://symfony.com/" target="_blank" rel="noreferrer">
     <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/symfony-logo-175.png"
