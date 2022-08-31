@@ -100,7 +100,7 @@
         width="40" height="40" /> </a>
              <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
         src="https://miro.medium.com/max/1200/1*i2skbfmDsHayHhqPfwt6pA.png" alt="python"
-        width="40" height="40" /> </a> 
+        width="50" height="50" /> </a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
