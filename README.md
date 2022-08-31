@@ -107,6 +107,10 @@
     target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40"
       height="40" /> </a>
+            <a href="https://threejs.org/"
+    target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/800px-Three.js_Icon.svg.png" alt="threeJs" width="40"
+      height="40" /> </a>
       <a href="https://www.photoshop.com/en" target="_blank"
       rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop"
