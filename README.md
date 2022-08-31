@@ -109,7 +109,7 @@
       height="40" /> </a>
             <a href="https://threejs.org/"
     target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/800px-Three.js_Icon.svg.png" alt="threeJs" width="40"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAEpwJjAhdcIqvWGiyHFJK8bOtamsVlK7AuLfIYdKJixpW7MsVmQs-_uNH478OrdBdRUE&usqp=CAU" alt="threeJs" width="40"
       height="40" /> </a>
       <a href="https://www.photoshop.com/en" target="_blank"
       rel="noreferrer"> <img
