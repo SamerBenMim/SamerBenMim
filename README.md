@@ -35,9 +35,7 @@
       src="https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/8/4/e/84e4ff1c1a_102482_gmail-logo-definition.jpg"
       alt="samer" height="30" width="40" /></a>
 </p>
-
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
 
