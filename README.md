@@ -124,7 +124,6 @@
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=SamerBenMim&show_icons=true&locale=en&layout=compact"
     alt="samer" /></p>
-
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamerBenMim&show_icons=true&locale=en"
