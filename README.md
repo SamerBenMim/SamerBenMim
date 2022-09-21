@@ -101,9 +101,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a><a href="https://unity.com/fr" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"
-      alt="bootstrap" width="40" height="40" /> </a>
+      alt="bootstrap" width="40" height="40" /></a>
       <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
+    target="_blank" rel="noreferrer"> <img 
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40"
       height="40" /> </a>
             <a href="https://threejs.org/"
