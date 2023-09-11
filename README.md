@@ -52,7 +52,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamerBenMim&" alt="SamerBenMim" /></p>
 <h3>Trophies :-</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=SamerBenMim" alt="SamerBenMim" /></a> </p>
+<p align="center">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=SamerBenMim" alt="SamerBenMim" />
+</p>
 
 
