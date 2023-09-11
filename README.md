@@ -1,9 +1,11 @@
-<h1 align="center ">Hi visitor👋, I'm Samer BEN MIM ! </h1>
-<h3 align="center">Student at INSAT🌟.</h3>
+<h1 align="center ">Hi there, I'm Samer BEN MIM! 👋</h1>
+<h3 align="center">I'm a student at INSAT 🌟.</h3>
 <br>
-<p align="right" > <h3>Profile Views :</h3><img src="https://komarev.com/ghpvc/?username=SamerBenMim&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Samer" /> 
-  </p>
+<p align="right" > <h3> :rocket: Visit my portfolio:</h3>
+
+[Click here to explore my portfolio](https://myportfolio-nu-sage.vercel.app/)
+
+</p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -13,9 +15,11 @@
 
 
 
-- 🌱 I’m currently learning blockchain Development and other programming languages
+- :blue_heart: **Recruiters**, you're the ***VIPs*** here! Only two seats at the talent table, so choose wisely. 😉 Just kidding, all are welcome to explore my profile!
 
-- 📫 How to reach me ** samerbenmim@insat.u-carthage.tn **
+- 🌱 I’m currently learning devops and cloud computing.
+
+- 📫 How to reach me ** samer.benmim.contact@gmail.com **
 
 - ⚡ Fun fact : cello and piano ❤️ are the reasons to live.
 
