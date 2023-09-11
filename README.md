@@ -7,7 +7,6 @@
 
 <br>
 
-<p><img align="right"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Samer" /> </p>
 
 
 - 🌱 I’m currently learning blockchain Development and other programming languages
@@ -33,28 +32,27 @@
       alt="samer" height="30" width="40" /></a>
 </p>
 <br>
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :-</h3> -------------------------------
 
-<div align="center">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamerBenMim&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Samer's Github Stats">
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SamerBenMim&show_icons=true&locale=en&layout=compact"
-    alt="samer" /></p>
-<br>
+<p align="center">
+<a href="https://github.com/AmardeepKesharwani"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amardeepkesharwani&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="AmardeepKesharwani"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamerBenMim&show_icons=true&locale=en"
-    alt="SamerBenMim" /></p>
+<p align="center">
+<a href="https://github.com/AmardeepKesharwani/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmardeepKesharwani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
+</p>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamerBenMim&" alt="SamerBenMim" /></p>
-
-<br>
 <h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=SamerBenMim" alt="SamerBenMim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"> <img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
+
